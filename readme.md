@@ -69,6 +69,10 @@ python main.py
 ## 📌 GitHub Topics
 
 ```
+
+
+
+
 python, opencv, computer-vision, face-detection, face-recognition,
 attendance-system, smart-attendance, automation, ai-project,
 real-time-detection, image-processing, student-attendance
